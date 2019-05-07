@@ -1,7 +1,7 @@
 {
   "name": "shipping-service-42",
   "version": "1.0.0",
-  "description": "",
+  "description": "There is a new description",
   "main": "app.js",
   "scripts": {
     "test": "jest tests",
